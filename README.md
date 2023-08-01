@@ -16,8 +16,8 @@
 
 | 标题                                                                                  | 原文 | 中文版 |
 | ------------------------------------------------------------------------------------- | ---- | ------ |
-| Scaling Distributed Machine Learning with the Parameter Server                        |      |        |
-| GPipe- Efficient Training of Giant Neural Networks using Pipeline Parallelism         |      |        |
-| Megatron-LM- Training Multi-Billion Parameter Language Models Using Model Parallelism |      |        |
-| PATHWAYS- ASYNCHRONOUS DISTRIBUTED DATAFLOW FOR ML                                    |      |        |
-| ZeRO- Memory Optimizations Toward Training Trillion Parameter Models                  |      |        |
+| Scaling Distributed Machine Learning with the Parameter Server                        | [paper](https://github.com/Daniel-Xing/ML-Paper-Zh/blob/main/AI-system/Scaling%20Distributed%20Machine%20Learning%20with%20the%20Parameter%20Server.pdf) | [paper_zh]() |
+| GPipe- Efficient Training of Giant Neural Networks using Pipeline Parallelism         | [paper](https://github.com/Daniel-Xing/ML-Paper-Zh/blob/main/AI-system/GPipe-%20Efficient%20Training%20of%20Giant%20Neural%20Networks%20using%20Pipeline%20Parallelism.pdf) | [paper_zh](https://github.com/Daniel-Xing/ML-Paper-Zh/blob/main/AI-system/GPipe%20Efficient%20Training%20of%20Giant%20Neural%20Networksusing%20Pipeline%20Parallelism.md) |
+| Megatron-LM- Training Multi-Billion Parameter Language Models Using Model Parallelism | [paper](https://github.com/Daniel-Xing/ML-Paper-Zh/blob/main/AI-system/Megatron-LM-%20Training%20Multi-Billion%20Parameter%20Language%20Models%20Using%20Model%20Parallelism.pdf) | [paper_zh]() |
+| PATHWAYS- ASYNCHRONOUS DISTRIBUTED DATAFLOW FOR ML                                    | [paper](https://github.com/Daniel-Xing/ML-Paper-Zh/blob/main/AI-system/PATHWAYS-%20ASYNCHRONOUS%20DISTRIBUTED%20DATAFLOW%20FOR%20ML.pdf) | [paper_zh]() |
+| ZeRO- Memory Optimizations Toward Training Trillion Parameter Models                  | [paper](https://github.com/Daniel-Xing/ML-Paper-Zh/blob/main/AI-system/ZeRO-%20Memory%20Optimizations%20Toward%20Training%20Trillion%20Parameter%20Models.pdf) | [paper_zh]() |

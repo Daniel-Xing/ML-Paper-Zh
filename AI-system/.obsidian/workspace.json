@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "9a5152a0305c427c",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa1c555ba47828d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbefa7554653138e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "GPipe- Efficient Training of Giant Neural Networks using Pipeline Parallelism.pdf"
+              }
+            }
+          },
+          {
+            "id": "8bbcf2b3e160a440",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GPipe Efficient Training of Giant Neural Networksusing Pipeline Parallelism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73e8c57de3bcc7dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "13e5824ac4a04df9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f7ae0f6a517e0c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f09a827cf908f0d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "254ecb6e48a7db59",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5a02f86becfad452",
+    "type": "split",
+    "children": [
+      {
+        "id": "e72acd81a049eda8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f33314d573f8b03",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GPipe- Efficient Training of Giant Neural Networks using Pipeline Parallelism.pdf",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc5118791bfa443e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GPipe- Efficient Training of Giant Neural Networks using Pipeline Parallelism.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed5fdb4e687f3727",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9657ee2967941e97",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GPipe- Efficient Training of Giant Neural Networks using Pipeline Parallelism.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9657ee2967941e97",
+  "lastOpenFiles": [
+    "img/gpipe/f3.png",
+    "img/gpipe/t5.png",
+    "img/gpipe/t4.png",
+    "img/gpipe/t3.png",
+    "img/gpipe/t2.png",
+    "img/gpipe/t1.png",
+    "img/gpipe/f2.png",
+    "img/gpipe/f1.png",
+    "img/gpipe",
+    "img",
+    "GPipe- Efficient Training of Giant Neural Networks using Pipeline Parallelism.pdf",
+    "GPipe Efficient Training of Giant Neural Networksusing Pipeline Parallelism.md"
+  ]
+}

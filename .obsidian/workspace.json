@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "43f695585e047088",
+    "type": "split",
+    "children": [
+      {
+        "id": "c503da7a1599eb5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4d1af9d1850e8e9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b733bc2d2f18f53b",
+    "type": "split",
+    "children": [
+      {
+        "id": "adee22bb2cb07bed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e926c53af8aa4bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "374179eab3775ba3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af93d3b61c4f2332",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ae8ad39ae3f604bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "73b488478bec1102",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d2cd28f76884d8d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6ae6599f929bc952",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "79a6cc0663f92af2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "54b2918b94b3793e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "a4d1af9d1850e8e9",
+  "lastOpenFiles": [
+    "LLM/GPT3 Language Models are Few-Shot Learners.pdf",
+    "LLM/PaperGallery - Neural Machine Translation by Jointly Learning to Align and Translate.md",
+    "LLM/PaperGallery - GPT2：Language Models are Unsupervised Multitask Learners.md",
+    "LLM/GPT1-Improving Language Understanding by Generative Pre-Training.md",
+    "LLM/PaperGallery - GPT1-Improving Language Understanding by Generative Pre-Training.md",
+    "LLM/PaperGallery - Deep Residual Learning for Image Recognition.md",
+    "LLM/img/resnet/封面.png",
+    "LLM/img/resnet/f1.png",
+    "LLM/Deep Residual Learning for Image Recognition.pdf",
+    "LLM/Deep Residual Learning for Image Recognition.md",
+    "LLM/ResNet.md",
+    "LLM/Untitled.md",
+    "LLM/resnet.pdf",
+    "LLM/img/resnet/t8.png",
+    "LLM/img/resnet/t7.png",
+    "LLM/img/resnet/f7.png",
+    "LLM/img/resnet/f6.png",
+    "LLM/img/resnet/t6.png",
+    "LLM/img/resnet/f5.png",
+    "LLM/img/resnet/t5.png",
+    "LLM/img/resnet/t4.png",
+    "LLM/img/resnet",
+    "LLM/img/iclr15",
+    "LLM/img/s2s",
+    "LLM/img/gpt2",
+    "LLM/img/gpt"
+  ]
+}
